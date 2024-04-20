@@ -1,0 +1,2 @@
+module LoansAdminHelper
+end

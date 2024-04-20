@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  amount: 1
+  due_date: 2024-04-19 17:09:31
+  loan: one
+  status: 1
+
+two:
+  amount: 1
+  due_date: 2024-04-19 17:09:31
+  loan: two
+  status: 1
