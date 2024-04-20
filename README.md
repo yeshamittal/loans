@@ -16,6 +16,8 @@ Things you may want to cover:
 
 * Database creation - Gets automatically created
 
+* Postman collection of all the APIs is present along side app folder
+
 * Assumptions:
   * User_id and role are received in requests. This is because service is receiving authenticated requests (maybe from Gateway)
   * When admin gets list of requests to approve, showing only pending requests for now. This can be changed based on usecase
